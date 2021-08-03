@@ -1,5 +1,6 @@
 # Welcome!
-I am Lane Dorscher
+I am Lane Dorscher. Self-proclaimed intermediate programmer with fundamental knowledte on coding and practices. Always striving to increase my skillset and understanding of the technological world.
+
 ## About Me
 Huge fan of the Sci-FI genre. My favorites include shows like Star Trek: The Next Generation and Voyager. My favorite games are the Mass Effect Trilogy and Apex Legends.
 I'm an admirer of the Medieval genre. I admire medival armor and weapons. Swords are pretty cool. My absolute favorite movie is A Knight's Tale for what comedy it has but the message it conveys about creating your own path.
